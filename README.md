@@ -4,7 +4,7 @@
 This is a payload that should be run with [CustomRPXLoader](https://github.com/wiiu-env/CustomRPXLoader).
 
 ## Usage
-Put the `payload.rpx` in the `sd:/wiiu/` folder of your sd card and use the `CustomRPXLoader` to run this setup payload, hold X on the Gamepad while loading to force open the menu.
+Put the `payload.rpx` in the `sd:/wiiu/` folder of your sd card and use the `CustomRPXLoader` to run this setup payload, hold X on the Wii U GamePad while loading to force open the menu.
 
 This payload checks for enviroments in the following directory: `sd:/wiiu/environments/`. 
 
